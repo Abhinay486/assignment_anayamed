@@ -1,0 +1,22 @@
+# AI Tool Utilization Record
+
+Tool Used: ChatGPT
+
+Purpose:
+Applied AI technologies in learning new notions, resolving mistakes, and getting assistance.
+
+It is all written by hand with modifications.
+
+## Prompts Used
+
+1. "How is file-based navigation in Expo Router implemented?"
+
+→ For routing structure understanding.
+
+2. "Why does TypeScript say property does not exist on context type?"
+
+→ Used for debugging typing issue in AuthContext.
+
+3. How to add basic multi-lingual support to a React Native project?
+→ Learned how i18n-js is integrated.
+4. "best practices for storing auth tokens in react-native" → Helped understand AsyncStorage vs SecureStore. 5. How to implement the “pull to refresh” feature in → Used to learn React Native list optimization. References: - There are no generated features that are full. - Even the implementations were done by hand.
